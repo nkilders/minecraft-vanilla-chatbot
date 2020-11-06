@@ -1,6 +1,6 @@
 # Minecraft Vanilla Chatbot
 
-A Minecraft Chatbot in Python which uses a server's log to react to various events (player join/leave, chat) via RCON
+A Minecraft Chatbot in Python which uses a server's log to react to various events (player join/leave, chat) via RCON\
 It does not require any plugins (e.g. Spigot) and works in plain vanilla Minecraft
 
 
